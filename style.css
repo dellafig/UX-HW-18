@@ -1,0 +1,599 @@
+.my-work {
+    width: 100%;
+    height: auto;
+    display: flex;
+    padding: 60px 80px 48px 80px;
+    position: relative;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: rgba(29, 78, 216, 1);
+    border-style: solid;
+    border-width: 1px;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(239, 246, 255, 1);
+  }
+  .testimonials-blueprint21 {
+    width: 1440px;
+    display: flex;
+    padding: 48px 80px;
+    position: relative;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: rgba(29, 78, 216, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    margin-bottom: 64px;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(239, 246, 255, 1);
+  }
+  .heading-title {
+    display: flex;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    border-color: transparent;
+    margin-bottom: 48px;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .text {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 36px;
+    align-self: stretch;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 40px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .users {
+    display: flex;
+    position: relative;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .user01 {
+    width: 405.3333435058594px;
+    display: flex;
+    position: relative;
+    flex-grow: 1;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 32px;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .text-design01 {
+    display: flex;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    border-color: transparent;
+    margin-bottom: 24px;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .text01 {
+    display: flex;
+    padding: 48px;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    border-color: transparent;
+    margin-bottom: 0px;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(214, 201, 242, 0.5600000023841858);
+  }
+  .invertedcommas1 {
+    width: 24.57666015625px;
+    height: 27px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-bottom: 16px;
+  }
+  .frame {
+    top: 3.532590866088867px;
+    left: 0px;
+    width: 25px;
+    height: 20px;
+    position: absolute;
+  }
+  .text02 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: stretch;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 150%;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .frame1827 {
+    width: 405px;
+    height: 16px;
+    position: relative;
+    align-self: stretch;
+  }
+  .name-image01 {
+    display: flex;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    border-color: transparent;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .dashboard3 {
+    width: 75px;
+    height: 67px;
+    position: relative;
+    margin-bottom: 8px;
+  }
+  .text04 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: stretch;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .user02 {
+    width: 405.3333435058594px;
+    display: flex;
+    position: relative;
+    flex-grow: 1;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 32px;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .text-design02 {
+    display: flex;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    border-color: transparent;
+    margin-bottom: 24px;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .text02 {
+    display: flex;
+    padding: 48px;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    border-color: transparent;
+    margin-bottom: 0px;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(214, 201, 242, 0.6000000238418579);
+  }
+  .invertedcommas11 {
+    width: 24.498638153076172px;
+    height: 27px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-bottom: 16px;
+  }
+  .frame1 {
+    top: 3.532590866088867px;
+    left: 0px;
+    width: 24px;
+    height: 20px;
+    position: absolute;
+  }
+  .text06 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: stretch;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 150%;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .frame1826 {
+    width: 405px;
+    height: 16px;
+    position: relative;
+    align-self: stretch;
+  }
+  .pencilruler {
+    width: 75px;
+    height: 67px;
+    position: relative;
+    margin-bottom: 24px;
+  }
+  .name-image02 {
+    display: flex;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    border-color: transparent;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .text11 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: stretch;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .user03 {
+    width: 405.3333435058594px;
+    display: flex;
+    position: relative;
+    flex-grow: 1;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .text-design03 {
+    display: flex;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    border-color: transparent;
+    margin-bottom: 24px;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .text03 {
+    display: flex;
+    padding: 48px;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    border-color: transparent;
+    margin-bottom: 0px;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(214, 201, 242, 0.6000000238418579);
+  }
+  .invertedcommas12 {
+    width: 24.57666015625px;
+    height: 27px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-bottom: 16px;
+  }
+  .frame2 {
+    top: 3.532590866088867px;
+    left: 0px;
+    width: 25px;
+    height: 20px;
+    position: absolute;
+  }
+  .text13 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: stretch;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 150%;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .frame1825 {
+    width: 405px;
+    height: 16px;
+    position: relative;
+    align-self: stretch;
+  }
+  .userfemale {
+    width: 75px;
+    height: 67px;
+    position: relative;
+    margin-bottom: 24px;
+  }
+  .name-image03 {
+    display: flex;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    border-color: transparent;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .text15 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: stretch;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .text17 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 36px;
+    align-self: stretch;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 40px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 64px;
+    text-decoration: none;
+  }
+  .team {
+    display: flex;
+    position: relative;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .member01 {
+    width: 405.3333435058594px;
+    display: flex;
+    position: relative;
+    flex-grow: 1;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 32px;
+    flex-direction: column;
+  }
+  .image {
+    width: 405.3333435058594px;
+    height: 388px;
+    display: flex;
+    position: relative;
+    align-self: stretch;
+    align-items: flex-start;
+    border-color: rgba(29, 78, 216, 1);
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 0px;
+    background-color: rgba(219, 234, 254, 1);
+  }
+  .heading-designation {
+    display: flex;
+    padding: 24px;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    border-color: rgba(29, 78, 216, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0 0 6px 6px;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(214, 201, 242, 1);
+  }
+  .text19 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: stretch;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 8px;
+    text-decoration: none;
+  }
+  .text21 {
+    color: rgba(51, 51, 51, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: stretch;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .member02 {
+    width: 405.3333435058594px;
+    display: flex;
+    position: relative;
+    flex-grow: 1;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 32px;
+    flex-direction: column;
+  }
+  .image1 {
+    width: 405.3333435058594px;
+    height: 388px;
+    display: flex;
+    position: relative;
+    align-self: stretch;
+    align-items: flex-start;
+    border-color: rgba(29, 78, 216, 1);
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 0px;
+    background-color: rgba(219, 234, 254, 1);
+  }
+  .heading-designation1 {
+    display: flex;
+    padding: 24px;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    border-color: rgba(29, 78, 216, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0 0 6px 6px;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(214, 201, 242, 1);
+  }
+  .text23 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: stretch;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 8px;
+    text-decoration: none;
+  }
+  .text25 {
+    color: rgba(54, 54, 54, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: stretch;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .member03 {
+    width: 405.3333435058594px;
+    display: flex;
+    position: relative;
+    flex-grow: 1;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .image2 {
+    width: 405.3333435058594px;
+    height: 388px;
+    display: flex;
+    position: relative;
+    align-self: stretch;
+    align-items: flex-start;
+    border-color: rgba(29, 78, 216, 1);
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 0px;
+    background-color: rgba(219, 234, 254, 1);
+  }
+  .heading-designation2 {
+    display: flex;
+    padding: 24px;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    border-color: rgba(29, 78, 216, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0 0 6px 6px;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(214, 201, 242, 1);
+  }
+  .text27 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: stretch;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 8px;
+    text-decoration: none;
+  }
+  .text29 {
+    color: rgba(54, 54, 54, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: stretch;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  
